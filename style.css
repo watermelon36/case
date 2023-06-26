@@ -1,0 +1,49 @@
+#conclusion{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color:rgb(53, 146, 252);
+}
+#juice{
+    width: 120px;
+    height:120px;
+}
+#cup{
+    width: 120px;
+    height:120px;
+}
+#book{
+    width: 120px;
+    height:120px;
+}
+#hair-extension{
+    width: 120px;
+    height:120px;
+}
+#marker{
+    width: 120px;
+    height:120px;
+}
+#mirror{
+    width: 120px;
+    height:120px;
+}
+#pencil{
+    width: 120px;
+    height:120px;
+}
+#stuffed_animal{
+    width: 120px;
+    height:120px;
+}
+#tablet{
+    width: 120px;
+    height:120px;
+}
+#eraser{
+    width: 120px;
+    height:120px;
+}
+
+body{
+    background-image: linear-gradient(rgb(255, 131, 197), rgb(255, 172, 78),rgb(244, 255, 85));
+}
